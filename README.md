@@ -6,6 +6,10 @@ Space invaders written in Rust using [Bevy Engine](https://bevyengine.org/)
 
 - This code followed the playlist [Rust GameDev Tutorials](https://youtube.com/playlist?list=PL7r-PXl6ZPcCB_9zZFU0krBoGK3y5f5Vt) on the Youtube channel [Jeremy Chone](https://www.youtube.com/c/JeremyChone)
 
+## :film_projector: Preview:
+[space-invaders]: https://github.com/henriquebeckmann/space-invaders/blob/main/space-invaders.png
+![alt text][space-invaders]
+
 ## 📚 Rust & Bevy & Other Resources
 
 - Rust: 
